@@ -22,8 +22,9 @@ section.home {
     position: relative;
     bottom: 0;
     height: 100%;
+    text-align: center;
 }
-div.home{
+div{
     background: #dee0d1;
     text-align: center;
 }
