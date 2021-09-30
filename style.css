@@ -60,4 +60,6 @@ section table tr td {
 section h2 {
     margin:0 auto;
     padding: 5px;
-}
+    font-size: 50px;
+    text-align: center;
+    
