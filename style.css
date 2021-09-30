@@ -57,3 +57,7 @@ section table tr td {
     font-size: 30px;
     text-align: center;
 }
+section h2 {
+    margin:0 auto;
+    padding: 5px;
+}
