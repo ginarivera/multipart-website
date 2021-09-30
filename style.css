@@ -44,3 +44,15 @@ p {
     text-align: center;
     margin: auto;
 }
+section.table, table, th, td {
+    border: 1px solid black;
+    width: 960px;
+    text-align: left;
+    border-collapse: collapse;
+    padding: 20px;
+    margin:0 auto;
+}
+section table tr td {
+    font-size: 30px;
+    text-align: center;
+}
