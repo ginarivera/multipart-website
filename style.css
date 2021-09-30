@@ -16,14 +16,14 @@ h1 {
     background-color: lightgrey;
     text-align: center;
 }
-section {
+section.home {
     background: rgb(121, 146, 93);
     padding-top: 20px;
     position: relative;
     bottom: 0;
     height: 100%;
 }
-div {
+div.home{
     background: #dee0d1;
     text-align: center;
 }
